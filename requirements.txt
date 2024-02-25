@@ -14,4 +14,10 @@ openpyxl
 pygwalker
 pandasai
 pandas
+graphviz
+pathlib
+seaborn
+emoji
+
+
 -e .
